@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pooja-ch-132.github.io/CRUD/",
+  "homepage": "https://pooja-ch-132.github.io/crud-operations/",
   "name": "training-app",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "ajv-keywords": "^5.1.0",
     "axios": "^1.7.9",
+    "gh-pages": "^6.3.0",
     "json-server": "^1.0.0-beta.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -24,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch ./users.json --port 3000"
+    "server": "json-server --watch ./users.json --port 3132"
   },
   "eslintConfig": {
     "extends": [
