@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Param",
+      "email": "param@gmail.com",
+      "phone": "9798654234"
+    },
+    {
+      "id": "3",
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "phone": "8234979865"
+    },
+    {
+      "id": "4",
+      "name": "Lasya",
+      "email": "lasya@gmail.com",
+      "phone": "9865974234"
+    },
+    {
+      "name": "Meghana",
+      "email": "megha@gmail.com",
+      "phone": "7965999254",
+      "id": "5"
+    },
+    {
+      "name": "Bhagi",
+      "email": "bhagi@gmail.com",
+      "phone": "9845678904",
+      "id": "dcb6"
+    },
+    {
+      "id": "0094",
+      "name": "Rishi",
+      "email": "rishi@gmail.com",
+      "phone": "8976534124"
+    }
+  ]
+}
