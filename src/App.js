@@ -43,11 +43,14 @@ import Edit from "./crudcomponents/Edit";
 import { ToastContainer } from "react-toastify";
 const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/create" element={<Create />} />
-      <Route path="/edit/:userId" element={<Edit />} />
-    </Routes>
+    <div>
+      <ToastContainer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/create" element={<Create />} />
+        <Route path="/edit/:userId" element={<Edit />} />
+      </Routes>
+    </div>
   );
 };
 
